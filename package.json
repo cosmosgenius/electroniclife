@@ -23,7 +23,13 @@
   },
   "homepage": "https://github.com/cosmosgenius/electroniclife#readme",
   "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-jest": "^16.0.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.16.0",
     "eslint": "^3.7.1",
-    "jest": "^16.0.1"
+    "jest-cli": "^16.0.1"
+  },
+  "jest": {
+    "collectCoverage": true
   }
 }
