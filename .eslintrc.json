@@ -8,5 +8,27 @@
   "env": {
     "node": true,
     "jest": true
-  }
+  },
+  "rules": {
+    "indent": [
+      "error",
+      4
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "semi": [
+      "error",
+      "always"
+    ],
+    "curly": [
+      "error",
+      "multi-line"
+    ],
+    "eqeqeq": [
+      "error", "smart"
+    ],
+    "no-eq-null": 2
+  },
 }
