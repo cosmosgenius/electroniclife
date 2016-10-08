@@ -31,5 +31,8 @@
   },
   "jest": {
     "collectCoverage": true
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
   }
 }
