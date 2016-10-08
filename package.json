@@ -1,0 +1,29 @@
+{
+  "name": "electroniclife",
+  "version": "0.0.0",
+  "description": "Electornic Life Project from Eloquent Javascript Book",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmosgenius/electroniclife.git"
+  },
+  "keywords": [
+    "electronic",
+    "life",
+    "eloquent",
+    "javascript"
+  ],
+  "author": "Sharat M R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cosmosgenius/electroniclife/issues"
+  },
+  "homepage": "https://github.com/cosmosgenius/electroniclife#readme",
+  "devDependencies": {
+    "eslint": "^3.7.1",
+    "jest": "^16.0.1"
+  }
+}
